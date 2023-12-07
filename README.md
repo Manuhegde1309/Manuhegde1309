@@ -10,8 +10,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manuhegde1309&show_icons=true&locale=en&layout=compact" alt="manuhegde1309" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manuhegde1309&show_icons=true&locale=en&layout=compact&theme=radical" alt="manuhegde1309" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuhegde1309&show_icons=true&locale=en" alt="manuhegde1309" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuhegde1309&show_icons=true&locale=en&theme=radical" alt="manuhegde1309" /></p>
 
 <h1 align="center">Thank you for visiting</h1>
