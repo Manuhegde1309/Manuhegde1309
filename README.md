@@ -14,4 +14,4 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=manuhegde1309&show_icons=true&locale=en&theme=radical" alt="manuhegde1309" /></p>
 <img src="https://www.gifs.cc/line3.gif" width="1000" height="5"/>
-<h1 align="center">Thank you for visiting</h1>
+<h1 align="center">Thank you for visiting💙💙💙</h1>
