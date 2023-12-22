@@ -7,8 +7,8 @@
 
 <h2><b>Languages and Tools i am familiar with:</b></h2>
 
-<p align="center"><img  src="https://skillicons.dev/icons?i=js,html,css,c,cpp,react,nodejs,mysql,mongodb,express,py"></img></p>
-
+<p align="center"><img  src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mysql,mongodb,express"></img></p>
+<p align="center"><img  src="https://skillicons.dev/icons?i=py,c,cpp,java"></img></p>
 <img src="https://www.gifs.cc/line3.gif" width="1000" height="5"/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manuhegde1309&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="manuhegde1309" /></p>
 
