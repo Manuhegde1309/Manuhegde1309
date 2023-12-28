@@ -12,6 +12,10 @@
 <img src="https://www.gifs.cc/line3.gif" width="1000" height="5"/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manuhegde1309&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="manuhegde1309" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=manuhegde1309&show_icons=true&locale=en&theme=synthwave" alt="manuhegde1309" /></p>
+<p>&nbsp;<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manuhegde1309&theme=synthwave" alt="manuhegde1309" /></p>
 <img src="https://www.gifs.cc/line3.gif" width="1000" height="5"/>
+<h1 align="center">My Github Stats</h1>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=manuhegde1309&theme=synthwave"/></p>
+<h1 align="center">My profile details</h1>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manuhegde1309&theme=synthwave" alt="manuhegde1309"/></p>
 <h1 align="center">Thank you for visiting💙💙💙</h1>
