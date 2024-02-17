@@ -1,5 +1,12 @@
-<h1 align="center" >Hi 👋, I'm Manu Hegde</h1>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=arial&weight=900&size=36&pause=1000&color=00FFBB&center=true&vCenter=true&width=435&lines=Hi +I'm+Manu+Hegde" alt="Typing SVG" />
+  </a>
+</h1>
+
 <h3 align="center" >A passionate CS aspirant from India just starting out</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manuhegde1309&label=Profile%20views&color=0e75b6&style=flat" alt="manuhegde1309" /> </p>
 
